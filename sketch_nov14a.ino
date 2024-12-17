@@ -1,6 +1,5 @@
 #include <Temperature_LM75_Derived.h>
 
-
 Generic_LM75 LM75;
 
 void setup() {
