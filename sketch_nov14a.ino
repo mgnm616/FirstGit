@@ -12,5 +12,5 @@ void loop() {
   Serial.print(LM75.readTemperatureC());
   Serial.println(" C");
 
-  delay(150);
+  delay(1000);
 }
